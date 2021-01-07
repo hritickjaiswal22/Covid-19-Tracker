@@ -1,0 +1,12 @@
+@media only screen and (max-width: 800px) {
+  .FlexContainer {
+    display: block;
+  }
+
+  .Card {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 3rem;
+    max-width: 28rem;
+  }
+}

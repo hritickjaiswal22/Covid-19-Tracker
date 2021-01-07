@@ -1,0 +1,11 @@
+footer {
+  margin-top: 5rem;
+}
+
+.Acknowledgement {
+  max-width: 400px;
+  margin: 0 auto;
+  font-family: 'Archivo', sans-serif;
+  width: 90%;
+  text-align: center;
+}

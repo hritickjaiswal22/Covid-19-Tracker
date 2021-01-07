@@ -1,0 +1,22 @@
+.Header {
+  max-width: 400px;
+  width: 90%;
+  margin: 0 auto;
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.Header__Title {
+  font-size: 7rem;
+}
+
+.Header_Description {
+  font-family: 'Archivo', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.Header_Info {
+  font-size: 1.5rem;
+}

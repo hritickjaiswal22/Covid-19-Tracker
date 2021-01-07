@@ -1,0 +1,15 @@
+.Selector {
+  font-family: 'Archivo', sans-serif;
+  max-width: 600px;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 3rem;
+}
+
+label {
+  font-size: 1.5rem;
+}
+
+#countries {
+  width: 100%;
+}

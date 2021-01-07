@@ -1,0 +1,53 @@
+.CardsSection {
+  max-width: 1000px;
+  margin: 0 auto;
+  width: 92%;
+  padding-top: 4rem;
+}
+
+.FlexContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Card {
+  width: 23.75%;
+  padding: 2rem;
+  min-height: 20rem;
+  font-family: 'Archivo', sans-serif;
+}
+
+.Card--infected {
+  background-color: rgba(102, 179, 255, 0.5);
+  border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.Card--recovered {
+  background-color: rgba(191, 242, 202, 0.5) !important;
+  border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.Card--deaths {
+  background-color: rgba(237, 178, 178, 0.5) !important;
+  border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+
+.Card--active {
+  background-color: rgba(237, 199, 152, 0.5) !important;
+  border-bottom: 10px solid rgba(242, 234, 0, 0.5);
+}
+
+.Card__Title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.Stat {
+  font-size: 2rem;
+  font-weight: 100;
+  margin-bottom: 1rem;
+}
+
+.Card__Description {
+  font-size: 1.5rem;
+}
